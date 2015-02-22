@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="planets-inkscape.svg"
+   style="enable-background:new"
+   inkscape:export-filename="/home/scott/Pictures/planets/planets.png"
+   inkscape:export-xdpi="360"
+   inkscape:export-ydpi="360">
+  <defs
+     id="defs4">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4986">
+      <rect
+         ry="0"
+         y="634.50812"
+         x="-1114.2161"
+         height="85.684547"
+         width="1389.0675"
+         id="rect4988"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         mask="none"
+         transform="matrix(-0.99192685,-0.12681136,0.12681136,-0.99192685,0,0)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4990">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect4992"
+         width="1389.0675"
+         height="85.684547"
+         x="-1114.2161"
+         y="548.82355"
+         ry="0"
+         transform="matrix(-0.17446732,-0.98466296,0.98466296,-0.17446732,0,0)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5006">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5008"
+         width="2797.6389"
+         height="85.684547"
+         x="-1114.2161"
+         y="463.1391"
+         ry="0" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5026">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5028"
+         width="2797.6389"
+         height="85.684547"
+         x="-1114.2161"
+         y="291.76996"
+         ry="0" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5042">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5044"
+         width="2797.6389"
+         height="85.684547"
+         x="-1114.2161"
+         y="206.0854"
+         ry="0" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5050">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5052"
+         width="2797.6389"
+         height="85.684547"
+         x="-1114.2161"
+         y="34.716381"
+         ry="0" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5077">
+      <rect
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect5079"
+         width="685.71423"
+         height="988.57147"
+         x="34.662617"
+         y="-431.29883"
+         transform="matrix(0,1,-1,0,0,0)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask5108">
+      <rect
+         ry="0"
+         y="145.37042"
+         x="-572.25507"
+         height="115.77114"
+         width="3781.4099"
+         id="rect5110"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="matrix(0.67250137,-0.74009588,0.74009588,0.67250137,0,0)" />
+    </mask>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask3679">
+      <rect
+         ry="0"
+         y="514.08582"
+         x="-936.69763"
+         height="139.19206"
+         width="4546.4028"
+         id="rect3681"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5999999;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         transform="scale(-1,-1)" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.23036213"
+     inkscape:cx="1133.9618"
+     inkscape:cy="1373.0688"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="1030"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="mercury"
+     style="display:inline"
+     transform="translate(0,27.637817)">
+    <rect
+       style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:164.55462646;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5069"
+       width="918.42029"
+       height="1760.734"
+       x="52.399624"
+       y="-1838.0719"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5131"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-27.637817)"><flowRegion
+         id="flowRegion5133"><rect
+           id="rect5135"
+           width="182.69896"
+           height="34.878891"
+           x="1724.0138"
+           y="772.73358" /></flowRegion><flowPara
+         id="flowPara5137" /></flowRoot>  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.98000004;display:inline"
+     transform="translate(0,27.637817)">
+    <image
+       y="-20.332609"
+       x="-598.76483"
+       id="image3583"
+       xlink:href="file:///home/scott/Pictures/planets/merc1.jpg"
+       height="409.45865"
+       width="579.16858"
+       mask="url(#mask5050)"
+       transform="matrix(1.5779046,0,0,1.5773077,872.63314,-83.431024)"
+       inkscape:export-xdpi="360"
+       inkscape:export-ydpi="360" />
+    <image
+       y="-517.57727"
+       x="17.612476"
+       id="image3645"
+       xlink:href="file:///home/scott/Pictures/planets/Venus.jpg"
+       height="1187.3508"
+       width="1187.8002"
+       mask="url(#mask5108)"
+       transform="matrix(0.78507612,0.86398576,-0.86398576,0.78507612,-214.1401,-63.226668)" />
+    <image
+       y="-80.730103"
+       x="-894.58765"
+       id="image3723"
+       xlink:href="file:///home/scott/Pictures/planets/Earth.jpg"
+       height="956.1582"
+       width="931.91455"
+       mask="url(#mask5042)"
+       transform="matrix(1.5779046,0,0,1.5773077,882.31326,-83.431024)" />
+    <image
+       y="-10.852089"
+       x="-824.92859"
+       id="image3734"
+       xlink:href="file:///home/scott/Pictures/planets/mars.jpg"
+       height="791.28577"
+       width="791.28577"
+       mask="url(#mask5026)"
+       transform="matrix(1.5779046,0,0,1.5773077,877.90656,-83.431024)" />
+    <image
+       y="-225.0377"
+       x="-1525.2617"
+       id="image3756"
+       xlink:href="file:///home/scott/Pictures/planets/saturn.jpg"
+       height="1234.1133"
+       width="2210.9504"
+       mask="url(#mask5006)"
+       transform="matrix(1.5779046,0,0,1.5773077,882.31326,-83.431024)" />
+    <image
+       y="-136.31592"
+       x="-17.615135"
+       id="image3767"
+       xlink:href="file:///home/scott/Pictures/planets/uranus.jpg"
+       height="960.71368"
+       width="960.71368"
+       transform="matrix(-0.27529277,1.5531163,-1.5537042,-0.27518864,881.51631,-83.431024)"
+       mask="url(#mask4990)" />
+    <image
+       mask="url(#mask4986)"
+       transform="matrix(-1.5651658,0.20002053,-0.20009623,-1.5645739,882.31326,-83.431024)"
+       width="907.02722"
+       height="905.78363"
+       xlink:href="file:///home/scott/Pictures/planets/neptune.jpg"
+       id="image4940"
+       x="28.372002"
+       y="-790.17365"
+       style="display:inline" />
+    <image
+       style="display:inline;enable-background:new"
+       y="-1235.0094"
+       x="-939.56488"
+       id="image3653"
+       xlink:href="file:///home/scott/Pictures/planets/jupiter2.jpg"
+       height="1412.8889"
+       width="1130.311"
+       transform="matrix(-0.97096695,0,0,-0.97096695,30.87197,12.770536)"
+       mask="url(#mask3679)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="masks"
+     style="display:none"
+     transform="translate(0,27.637817)">
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.95999995;color:#000000;fill:none;stroke:#df0000;stroke-width:2.5999999;stroke-miterlimit:4;stroke-opacity:0.40865389;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path3781"
+       sodipodi:cx="-751.55347"
+       sodipodi:cy="559.40771"
+       sodipodi:rx="395.9798"
+       sodipodi:ry="395.9798"
+       d="m -355.57367,559.40771 a 395.9798,395.9798 0 1 1 -791.95963,0 395.9798,395.9798 0 1 1 791.95963,0 z"
+       transform="matrix(1.5765295,0,0,1.5759331,1386.9543,-358.92684)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="8"
+     style="display:inline"
+     transform="translate(0,27.637817)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5143"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-27.637817)"><flowRegion
+         id="flowRegion5145"><rect
+           id="rect5147"
+           width="177.71626"
+           height="51.487888"
+           x="1657.5779"
+           y="736.19379"
+           style="fill:#ffffff" /></flowRegion><flowPara
+         id="flowPara5149" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,94.808399,4.79835)"><flowRegion
+         id="flowRegion5153"><rect
+           id="rect5155"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157"
+         style="fill:#ffffff;fill-opacity:1">Cassini PIA06193</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,79.14397,-541.33772)"><flowRegion
+         id="flowRegion5153-5"><rect
+           id="rect5155-7"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9"
+         style="fill:#ffffff;fill-opacity:1">Magellan PIA00104</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7-6"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,78.229668,233.60934)"><flowRegion
+         id="flowRegion5153-5-5"><rect
+           id="rect5155-7-0"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9-1"
+         style="fill:#ffffff;fill-opacity:1">Voyager 2 PIA01492</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7-6-8"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,71.907233,141.33238)"><flowRegion
+         id="flowRegion5153-5-5-2"><rect
+           id="rect5155-7-0-4"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9-1-4"
+         style="fill:#ffffff;fill-opacity:1">Voyager 2 PIA18182</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7-6-8-7"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,94.808399,-131.73566)"><flowRegion
+         id="flowRegion5153-5-5-2-9"><rect
+           id="rect5155-7-0-4-6"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9-1-4-0"
+         style="fill:#ffffff;fill-opacity:1">Cassini PIA02873</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7-6-8-6"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,87.51857,-268.26969)"><flowRegion
+         id="flowRegion5153-5-5-2-3"><rect
+           id="rect5155-7-0-4-0"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9-1-4-1"
+         style="fill:#ffffff;fill-opacity:1">Viking 1 PIA00195</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7-6-8-63"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,65.89179,-404.80371)"><flowRegion
+         id="flowRegion5153-5-5-2-1"><rect
+           id="rect5155-7-0-4-2"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9-1-4-6"
+         style="fill:#ffffff;fill-opacity:1">Suomi NPP PIA18033</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5151-7-6-8-5"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
+       transform="matrix(0.97096695,0,0,0.97096695,65.284936,-677.87175)"><flowRegion
+         id="flowRegion5153-5-5-2-17"><rect
+           id="rect5155-7-0-4-4"
+           width="227.54326"
+           height="44.844311"
+           x="1679.1696"
+           y="727.88928"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara5157-9-1-4-8"
+         style="fill:#ffffff;fill-opacity:1">Messenger PIA10398</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3053"
+       style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,-27.637817)"><flowRegion
+         id="flowRegion3055"><rect
+           id="rect3057"
+           width="116.64268"
+           height="16.882494"
+           x="1726.6187"
+           y="1067.7218"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3059">Courtesy NASA/JPL-Caltech.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:15.53547096px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1918.729"
+       y="1050.9719"
+       id="text3829"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3831"
+         x="1918.729"
+         y="1050.9719"
+         style="font-size:5.82580185px;text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">All images courtesy NASA/JPL-Caltech. See http://photojournal.jpl.nasa.gov</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3833"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:16px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion3835"><rect
+           id="rect3837"
+           width="296.21103"
+           height="1230.8873"
+           x="1637.6019"
+           y="-38.848923" /></flowRegion><flowPara
+         id="flowPara3839"></flowPara></flowRoot>  </g>
+</svg>
