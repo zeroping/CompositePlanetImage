@@ -17,9 +17,9 @@
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="planets-inkscape.svg"
    style="enable-background:new"
-   inkscape:export-filename="/home/scott/Pictures/planets/planets.png"
-   inkscape:export-xdpi="360"
-   inkscape:export-ydpi="360">
+   inkscape:export-filename="/home/scott/Pictures/planets/CompositePlanetImage/planets-1080.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <mask
@@ -143,11 +143,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23036213"
-     inkscape:cx="1133.9618"
-     inkscape:cy="1373.0688"
+     inkscape:zoom="0.46072426"
+     inkscape:cx="1641.3441"
+     inkscape:cy="631.69244"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:snap-bbox="true"
@@ -320,7 +320,7 @@
        xml:space="preserve"
        id="flowRoot5151"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,94.808399,4.79835)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,94.808408,-0.45780714)"><flowRegion
          id="flowRegion5153"><rect
            id="rect5155"
            width="227.54326"
@@ -333,7 +333,7 @@
        xml:space="preserve"
        id="flowRoot5151-7"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,79.14397,-541.33772)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,79.14398,-542.38896)"><flowRegion
          id="flowRegion5153-5"><rect
            id="rect5155-7"
            width="227.54326"
@@ -346,7 +346,7 @@
        xml:space="preserve"
        id="flowRoot5151-7-6"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,78.229668,233.60934)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,71.907242,270.50777)"><flowRegion
          id="flowRegion5153-5-5"><rect
            id="rect5155-7-0"
            width="227.54326"
@@ -359,7 +359,7 @@
        xml:space="preserve"
        id="flowRoot5151-7-6-8"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,71.907233,141.33238)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,71.907242,135.02498)"><flowRegion
          id="flowRegion5153-5-5-2"><rect
            id="rect5155-7-0-4"
            width="227.54326"
@@ -372,7 +372,7 @@
        xml:space="preserve"
        id="flowRoot5151-7-6-8-7"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,94.808399,-131.73566)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,94.808408,-135.9406)"><flowRegion
          id="flowRegion5153-5-5-2-9"><rect
            id="rect5155-7-0-4-6"
            width="227.54326"
@@ -385,7 +385,7 @@
        xml:space="preserve"
        id="flowRoot5151-7-6-8-6"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,87.51857,-268.26969)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,87.51857,-271.42338)"><flowRegion
          id="flowRegion5153-5-5-2-3"><rect
            id="rect5155-7-0-4-0"
            width="227.54326"
@@ -398,7 +398,7 @@
        xml:space="preserve"
        id="flowRoot5151-7-6-8-63"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,65.89179,-404.80371)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,65.891798,-406.90617)"><flowRegion
          id="flowRegion5153-5-5-2-1"><rect
            id="rect5155-7-0-4-2"
            width="227.54326"
@@ -411,7 +411,7 @@
        xml:space="preserve"
        id="flowRoot5151-7-6-8-5"
        style="font-size:16px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Sans"
-       transform="matrix(0.97096695,0,0,0.97096695,65.284936,-677.87175)"><flowRegion
+       transform="matrix(0.97096695,0,0,0.97096695,65.284944,-677.87175)"><flowRegion
          id="flowRegion5153-5-5-2-17"><rect
            id="rect5155-7-0-4-4"
            width="227.54326"
